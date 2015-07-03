@@ -1,0 +1,560 @@
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 5
+	Factor de aprendizaje: 0.025
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0369733
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0224428
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0293415
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0310038
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0364096
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0374014
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 3
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.04
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.111111
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.035722
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0219368
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.028872
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0323629
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0360679
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0402396
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 20
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0325067
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0211038
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0239066
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0266421
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0296286
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0359444
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 12
+		Capa[1] : 3
+		Capa[2] : 12
+Entrenando con:
+	Pasos: 20
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 2x2
+Factor de compresion: 0.25
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0428059
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0277389
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0338044
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0424966
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.04245
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0481278
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 20
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0314393
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.020911
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0234535
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0315528
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0294146
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0351387
+
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 100
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.031017
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0179063
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0231815
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0236838
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.028924
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0318814
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 36
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 100
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0305408
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.017677
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0229442
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0231007
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0289601
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0317618
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 36
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 100
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 36
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 100
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 36
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 100
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0195216
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0200145
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0327847
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0357034
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.060733
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0719289
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 4
+		Capa[2] : 27
+Entrenando con:
+	Pasos: -1
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.148148
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0195526
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.019996
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0327218
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0358454
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0599637
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0697976
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0184626
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0170476
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0324481
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0323776
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0485097
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0611121
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.643414
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0519324
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0429886
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.153902
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.05425
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.110005
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0887815
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 27
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0059129
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.0153153
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0130762
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0145352
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0213504
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0291954
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.0064103
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.00597857
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0131756
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0175688
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0202796
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0287651
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.00314177
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.00287565
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.00708833
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.00819594
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.00975738
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0163939
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.00631464
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.00547556
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0135355
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0145365
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0197614
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0297857
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.00617992
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.00655113
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.00836072
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0176054
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0199236
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0301443
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 6
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.222222
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.00640347
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.00513947
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.008011
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0159158
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0180173
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0280318
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.03
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.00638976
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.00831223
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.00823523
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0163149
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0226526
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0289451
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+Grandes/Prueba-0    ->   Error cuadratico medio: 0.00666714
+Grandes/Prueba-1    ->   Error cuadratico medio: 0.00803892
+Grandes/Prueba-2    ->   Error cuadratico medio: 0.0096839
+Grandes/Prueba-3    ->   Error cuadratico medio: 0.0153448
+Grandes/Prueba-4    ->   Error cuadratico medio: 0.0202705
+Grandes/Prueba-5    ->   Error cuadratico medio: 0.0279324
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
+
+Comprimiendo con arquitectura:
+	Numero de capas: 3
+		Capa[0] : 32
+		Capa[1] : 5
+		Capa[2] : 27
+Entrenando con:
+	Pasos: 10
+	Factor de aprendizaje: 0.01
+	Factor de momento: 0.3
+Tamaño de los patrones: 3x3
+Factor de compresion: 0.185185
